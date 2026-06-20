@@ -28,3 +28,7 @@ Analyze multi-year sales performance to identify top-performing regions, product
 
 ## 🚀 Outcome
 This project helps in understanding sales trends, identifying high-performing segments, and improving business decision-making using Excel-based analytics.
+
+## 📄 Detailed Report
+A full journal-style analysis report including methodology, limitations, and challenges faced during the project is available here:
+- Sales_Performance_Insights_Report.pdf
